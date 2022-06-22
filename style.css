@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background-image: radial-gradient(circle farthest-corner at 10% 20%, rgba(97, 186, 255, 1) 0%, rgba(166, 239, 253, 1) 90.1%);
+    font-family: 'Joan', serif;
+    font-family: 'Righteous', cursive;
+    font-family: 'Sarala', sans-serif;
+    padding: 0.5%;
+}
+
+.nav {
+    background-color: rgba(97, 186, 255, 1);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+    margin-top: none;
+    gap: 32px;
+}
+
+.logo-nav {
+    height: 70px;
+}
+
+.img1 {
+    height: 320px;
+}
+
+.img2 {
+    height: 340px;
+}
+
+.cont {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.cont-tit {
+    border-top: 0.4px solid #000000;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    color: #000000;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo {
+    font-family: 'Sarala', sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 40px;
+
+}
+
+
+.conteudo-sec-tit {
+
+    border-top: 0.4px solid #000000;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    color: #000000;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteudo-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.conteudo2 {
+    font-family: 'Sarala', sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 40px;
+}
+
+.titulo-lista {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-top: 0.4px solid #000000;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    color: #000000;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.lista {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-family: 'Sarala', sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 40px;
+}
+
+.quem-somos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border-top: 0.4px solid #000000;
+    padding-top: 48px;
+    font-family: 'Righteous', cursive;
+    color: #000000;
+    font-weight: 500;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+.cont-ref {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    flex-wrap: nowrap;
+    justify-content: center;
+    font-family: 'Sarala', sans-serif;
+    color: #000000;
+    font-weight: 400;
+    font-size: 25px;
+    padding-left: 40px;
+}
+
+
+
+
+
+
+.redes {
+    display: flex;
+}
+
+.face-logo {
+    height: 250px;
+}
+
+.insta-logo {
+    height: 200px;
+}
+
+.wpp-logo {
+    height: 200px;
+}
+
+.git-logo {
+    height: 200px;
+}
